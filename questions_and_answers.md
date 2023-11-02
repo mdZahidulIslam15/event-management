@@ -18,9 +18,9 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: The output: {}.
 
-<i>Write your explanation here</i>
+<i>Here variable is initialized as "greeting" but then use greetign as an empty object and console it also, so the result will be {}</i>
 
 </p>
 </details>
@@ -43,9 +43,9 @@ sum(1, "2");
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: The output will be "12"
 
-<i>Write your explanation here</i>
+<i> Answer will be "12" because here this function takes two parameters "a" and "b" and the arguments are 1 and "2" where one is number and another is a string. We know in javascript number and string will concatenate together and out will produce a concaeanate string.</i>
 
 </p>
 </details>
@@ -69,9 +69,9 @@ console.log(food);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: A
 
-<i>Write your explanation here</i>
+<i> Option A is the written answer because of the info.favoriteFood will modify the favoriteFood property and there will not be any change in the food array that way the result will remain the same. </i>
 
 </p>
 </details>
@@ -94,9 +94,9 @@ console.log(sayHi());
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: B.
 
-<i>Write your explanation here</i>
+<i>B is the right answer because when calling the function sayHi on that time it has no parameter for name</i>
 
 </p>
 </details>
@@ -122,9 +122,9 @@ console.log(count);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C.
 
-<i>Write your explanation here</i>
+<i>Here, when the forEach will iterate the nums array then it will check the truthy value only and here truthy value is 1, 2, 3 so it will iterate three times and increment three times also. So the output will 3.</i>
 
 </p>
 </details>
